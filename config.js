@@ -1,5 +1,2 @@
 console.log('config.js');
-console.log('version 3');
-function myFinction(){
-    
-}
+console.log('version 1');
