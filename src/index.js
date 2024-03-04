@@ -1,7 +1,7 @@
 console.log('index.js');
-console.log('Version 2 Kamal');
+console.log('Version 3 Kamal');
 function myFinction(){
-    console.log('CNFIGE HAS BEEN CHENGED FOR VERSION 2')
+    console.log('CNFIGE HAS BEEN CHENGED FOR VERSION 3')
 }
 
 
